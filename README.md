@@ -63,8 +63,8 @@ $ bash zphisher.sh
 
 ### Run on Docker
 ```
-$ docker pull Garrettiscool101/zphisher
-$ docker run --rm -it Garrettiscool101/zphisher
+$ docker pull garretth2007/zphisher
+$ docker run --rm -it garretth2007/zphisher
 ```
 
 ### Dependencies
