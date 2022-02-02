@@ -50,7 +50,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
+$ git clone git://github.com/Garrettiscool101/zphisher.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
@@ -63,8 +63,8 @@ $ bash zphisher.sh
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull Garrettiscool101/zphisher
+$ docker run --rm -it Garrettiscool101/zphisher
 ```
 
 ### Dependencies
