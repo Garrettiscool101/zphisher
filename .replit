@@ -1,0 +1,2 @@
+language = "bash"
+run = "bash zphisher.sh"
