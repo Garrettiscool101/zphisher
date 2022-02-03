@@ -1,6 +1,6 @@
 #!/bin/bash
 PACKAGE_NAME=zphisher
-ZPHISHER_VERSION=2.2
+ZPHISHER_VERSION=2.3
 PACKAGE_ARCH=all
 DISTRO=$(uname -o)
 
