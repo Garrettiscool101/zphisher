@@ -304,7 +304,7 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Garrettiscool101
 		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
