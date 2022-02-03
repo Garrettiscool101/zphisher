@@ -85,7 +85,7 @@ $ docker run --rm -it garretth2007/zphisher
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src=".imgs/we.gif"/>
 </p>
 
 ### Special Thanks :
