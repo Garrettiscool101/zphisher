@@ -18,4 +18,4 @@ jobs:
     - name: Build the Docker image
       run: docker build . --file Dockerfile --tag Garrettiscool101/zphisher:latest
     - name: Push the Docker image
-      run: docker login -u ijn35807 -p ${{ secrets.DOCKER_TOKEN }} && docker push Garrettiscool101/zphisher:latest
+      run: docker login -u garretth2007 -p ${{ secrets.DOCKER_TOKEN }} && docker push Garrettiscool101/zphisher:latest
