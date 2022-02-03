@@ -10,9 +10,3 @@ RUN apt update && \
     apt install --no-install-recommends -y php && \
     apt clean
 CMD ["./zphisher.sh"]
-
-with:
-  name: garretth2007/zphisher
-  username: ${{ secrets.DOCKER_USERNAME }}
-  password: ${{ secrets.DOCKER_PASSWORD }}
-  dockerfile: Dockerfile
