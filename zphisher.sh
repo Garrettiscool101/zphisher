@@ -1,12 +1,13 @@
 #!/bin/bash
 
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.2
-##   Github 	: 	https://github.com/htr-tech
+##   Author 	: 	Garrett 
+##   Version 	: 	2.3
+##   Github 	: 	https://github.com/Garrettiscool101
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
+##   htr-tech - https://github.com/htr-tech
 ##   1RaY-1 - https://github.com/1RaY-1
 ##   Moises Tapia - https://github.com/MoisesTapia
 ##   TheLinuxChoice - https://twitter.com/linux_choice
@@ -17,7 +18,7 @@
 
 
 ## If you Copy Then Give the credits :)
-
+## Special thanks to htr-tech his project was not working so I forked it and fixed it
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
@@ -91,7 +92,7 @@
 ##    modification follow.
 ##
 ##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
-##
+##      Fixer os GARRETTISCOOL101 (https://github.com/Garrettiscool101)
 
 
 ## ANSI colors (FG & BG)
@@ -162,7 +163,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Garrettiscool101 (Garrett)${WHITE}
 	EOF
 }
 
@@ -303,13 +304,12 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
+		${GREEN}Author   ${RED}:  ${ORANGE}Garrett ${RED}[ ${ORANGE}Garrettiscool101 ${RED}]
 		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Garrettiscool101
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
-		${GREEN}Version  ${RED}:  ${ORANGE}2.2
+		${GREEN}Version  ${RED}:  ${ORANGE}2.3
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
-								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1 ${RESETBG}
+								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1,Htr-tech ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
